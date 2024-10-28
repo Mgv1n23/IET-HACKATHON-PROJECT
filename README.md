@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 IET HACKATHON PROJECT
 Welcome to the IET Hackathon Project! This repository contains all the code, data, and documentation for a property price prediction model developed using machine learning techniques.
 
@@ -26,3 +27,6 @@ IET-HACKATHON-PROJECT/
 └── requirements.txt
 
 
+=======
+# Price-Predictor
+>>>>>>> 42b294eacb2892c547805d3eca40fc07a259e64e
